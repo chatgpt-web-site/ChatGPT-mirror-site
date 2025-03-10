@@ -14,7 +14,7 @@
  
  ---
  
- ## 国内推荐的 ChatGPT镜像网站
+## 国内推荐的 ChatGPT镜像网站
  
 1. [https://snakegpt.work](https://snakegpt.work) —— 运营时长两年，支持GPT4、GPT4o，GPT-o3,deepseek，Midjourney绘画，国内邮箱直接注册
 2. [https://gptcat.net/](https://gptcat.net/) ——  运营时长一年，一比一还原官网，可以使用GPT4o的实时语音对话。支持Claude3，开通会员后可以同时使用GPT-o1、GPT-o3与Claude，支持使用canvas模型。
@@ -23,7 +23,7 @@
  
  ---
  
- ## 国内自研大模型汇总
+## 国内自研大模型汇总
  
  - [https://yiyan.baidu.com/](https://yiyan.baidu.com/) - 文心一言，由百度出品。
  - [https://tongyi.aliyun.com/](https://tongyi.aliyun.com/) - 通义千问，由阿里出品。
@@ -34,7 +34,7 @@
  - [https://www.so.com/zt/invite.html](https://www.so.com/zt/invite.html) - 360 智脑，由360出品。
  - [https://github.com/THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B，由清华大学唐杰团队开发。
  
-## 国内ChatGPT镜像网站整理合集
+ ## 国内ChatGPT镜像网站整理合集
 
 1. [SnakeGPT](https://snakegpt.work)  
 2. [GPTCat](https://gptcat.net/)  
@@ -57,7 +57,7 @@
  
  ---
  
- ## 注意事项
+## 注意事项
  
  - 请定期检查链接的有效性及其安全性。
  - 遵守相关法律法规，合法合规地使用镜像网站。
@@ -65,7 +65,7 @@
  
  ---
  
- ## 更新日志
+## 更新日志
  
  我们会持续更新最实用的镜像网站，并记录所有的修改和更新，以便用户了解最新信息和变化。
  
